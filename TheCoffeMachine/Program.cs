@@ -6,7 +6,7 @@ namespace TheCoffeMachine
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Farabi Coffe Shop!");
+            Console.WriteLine("Farabi Coffe Shop!!");
 
             CoffePowder coffe = new CoffePowder(100);
             WaterGalon water = new WaterGalon(1000);
